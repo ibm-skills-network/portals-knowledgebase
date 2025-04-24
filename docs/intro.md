@@ -1,47 +1,70 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the Portal Admin Guide! This comprehensive guide will help you navigate and manage your learning portal effectively.
 
-## Getting Started
+## What is a Portal?
 
-Get started by **creating a new site**.
+A Skills Network Portal is an online learning platform that provides access to content from the Skills Network and others catalogs. Think of it like a custom app store for learning - just as you get apps from the App Store or Google Play, a portal allows your organization to:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Access pre-built learning content from the Skills Network Catalog
+- Create and host your own custom courses
+- Build learning paths and journeys
+- Manage competitions and events
+- Track learner progress and achievements
 
-### What you'll need
+## Understanding Open edX
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+The portal works alongside Open edX, a powerful open-source learning platform used by millions of learners worldwide. It consists of two main components:
 
-## Generate a new site
+1. **Learning Management System (LMS)**: The platform where learners take courses, track progress, and earn certificates
+2. **Course Management System (CMS/Studio)**: The authoring tool where you can create and manage courses
 
-Generate a new Docusaurus site using the **classic template**.
+## How to Access Administrative Settings
 
-The classic template will automatically be added to your project after you run the command:
+To access the administrative settings in the learning portal:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+1. Click your profile picture icon in the top right corner of the screen
+2. Look for the 'Admin' option in the dropdown menu
+3. Click 'Admin' to access the admin dashboard
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Note: You must have manager privileges to see and access the Admin option.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Portal Settings Overview
 
-## Start your site
+The portal comes with a comprehensive set of configuration options including:
 
-Run the development server:
+- General site settings
+- User registration configuration
+- Header and footer customization
+- Visual styling options
+- Course and content management
+- Badge system configuration
+- And much more!
 
-```bash
-cd my-website
-npm run start
-```
+Explore the admin dashboard to discover all available configuration options.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Customizing Your Portal
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+The Portal Admin Management Console provides powerful customization options to create a branded experience for your organization:
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Customize logos, menus, headers, and footers through an intuitive point-and-click interface
+- Advanced CSS customization for complete design control
+- Configure access controls and user management
+- Set up and enable AI assistants
+
+## Engaging Your Learners
+
+Beyond traditional courses, the portal offers various ways to engage your team:
+
+- Create and manage events like workshops, mini-conferences, and team events
+- Organize hackathons and competitions to foster innovation
+- Use the Competition Management System to run professional internal competitions or hackathons
+- Track participation and engagement metrics
+- Build a community of learners through interactive features
+
+These features help create an engaging learning environment that goes beyond traditional course-based learning.
