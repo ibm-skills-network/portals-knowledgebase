@@ -63,13 +63,7 @@ const config = {
           alt: 'Skills Network Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            href: 'https://portals.skills.network',
-            label: 'Portal Manager',
-            position: 'right',
-          },
-        ],
+        items: [],
       },
       footer: {
         style: 'dark',
