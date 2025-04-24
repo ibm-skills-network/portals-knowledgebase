@@ -19,7 +19,7 @@ The main difference between Guided Projects and Courses is that Courses are more
 
 ## Project Types
 
-Our Guided Projects support are hosted on on the platforms like:
+Our Guided Projects utilize Skills Network Labs to provide a variety of lab environments hosted in the cloud. Examples include:
 
 - AI Playground
 - Cloud IDE
@@ -57,6 +57,4 @@ Each Guided Project includes:
 
 ## Language Support
 
-- Currently primarily in English
-- Ongoing translation efforts using Generative AI
-- Accessible to global learners
+- Currently primarily in English but support translation using Generative AI

@@ -13,7 +13,7 @@ Our courses typically include:
 - Video lectures from industry experts
 - Reading materials and resources
 - Interactive quizzes and assessments
-- Hands-on assignments
+- Hands-on labs & assignments
 - Guided Projects for practical application
 - Discussion forums for peer interaction
 - AI-powered teaching assistants for personalized help
@@ -24,7 +24,7 @@ Our courses typically include:
 - **Progression**: Follows a logical sequence, building knowledge incrementally
 - **Certification**: Most courses offer certificates or badges upon completion
 - **Passing Grade**: Typically 70% for certification
-- **Language**: Currently primarily in English, with ongoing translation efforts using Generative AI
+- **Language**: Primarily in English but content can be translated to multiple languages within the platform
 - **Access**: Lifetime access with no expiry
 
 ## Popular Courses
@@ -39,10 +39,10 @@ Some of our most popular courses include:
 
 ## Course Requirements
 
-- Some courses may require a free Coursera account
 - Basic computer literacy
 - Internet access
 - Specific software requirements (if any) will be listed in the course description
+- Certain courses may require a free Coursera account
 
 ## Learning Experience
 
@@ -50,14 +50,16 @@ Some of our most popular courses include:
 - Progress tracking
 - Interactive elements
 - Community support
+- AI assisted learning
 - Expert guidance
 - Practical applications
+- Hands-on labs
 
-## Certification
+## Certificates
 
 Upon successful completion of a course (typically with a 70% passing grade), learners receive:
 
 - A digital certificate
-- A badge (in some cases)
+- A badge (for some courses)
 - Proof of completion for professional profiles
 - Skills verification for employers

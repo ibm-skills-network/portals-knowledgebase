@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Learning Paths
 
-A learning path is a structured sequence of courses and guided projects designed to build comprehensive knowledge or skills in a specific domain. These paths are carefully curated to provide a complete learning journey from foundational concepts to advanced topics.
+A learning path is a structured sequence of courses and guided projects designed to build comprehensive knowledge or skills in a specific domain. These collections are carefully curated to provide a complete learning journey from foundational concepts to advanced topics.
 
 ## Path Components
 
@@ -14,7 +14,7 @@ Learning paths typically include:
 - Guided projects for hands-on practice
 - Assessments to verify understanding
 - Badges upon completion of significant milestones
-- Final certification in some paths
+- Certificates in some learning paths
 
 ## Key Features
 
@@ -22,7 +22,7 @@ Learning paths typically include:
 - **Comprehensive Coverage**: From basics to advanced topics
 - **Practical Application**: Includes hands-on projects
 - **Progress Tracking**: Monitor your advancement through the path
-- **Badge Awards**: Recognition of completion at various stages
+- **Badge & Certificate Awards**: Recognition of completion at various stages (for some learning paths)
 - **Lifetime Access**: No expiry, learn at your own pace
 
 ## Popular Learning Paths
@@ -45,6 +45,4 @@ Some of our most sought-after learning paths include:
 
 ## Language Support
 
-- Currently primarily in English
-- Ongoing translation efforts using Generative AI
-- Accessible to global learners
+- Currently primarily in English but support translation using Generative AI
