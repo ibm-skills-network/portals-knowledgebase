@@ -8,13 +8,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  notify-vector-db-update:
+  notify-docs-update:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Vector Database Update
+      - name: Trigger Documentation Update
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.SN_ASSISTANT_TOKEN }}
           repository: ibm-skills-network/sn-assistant
           event-type: knowledge-base-update
-          client-payload: '{"repository_url": "https://github.com/ibm-skills-network/portals-knowledgebase.git", "docs_path": "docs", "collection_alias": "portals_docs", "collection_prefix": "portal_"}' 
+          client-payload: '{"repository_url": "https://portals.skills.network/docs", "library_name": "portals", "version": "1"}' 
