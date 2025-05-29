@@ -1,0 +1,20 @@
+name: Notify Vector DB Update
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/**'
+  workflow_dispatch:
+
+jobs:
+  notify-vector-db-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vector DB Update
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.SN_ASSISTANT_TOKEN }}
+          repository: ibm-skills-network/sn-assistant
+          event-type: vector-database-update
+          client-payload: '{"repository_url": "https://github.com/ibm-skills-network/portals-knowledgebase.git", "docs_path": "docs", "collection_alias": "portals_docs", "collection_prefix": "portals_"}'
