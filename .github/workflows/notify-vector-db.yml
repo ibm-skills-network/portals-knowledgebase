@@ -1,4 +1,4 @@
-name: Notify Documentation Updates
+name: Notify Vector DB Update
 
 on:
   push:
@@ -11,21 +11,10 @@ jobs:
   notify-vector-db-update:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Vector Database Update
+      - name: Trigger Vector DB Update
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.SN_ASSISTANT_TOKEN }}
           repository: ibm-skills-network/sn-assistant
           event-type: vector-database-update
           client-payload: '{"repository_url": "https://github.com/ibm-skills-network/portals-knowledgebase.git", "docs_path": "docs", "collection_alias": "portals_docs", "collection_prefix": "portals_"}'
-          
-  notify-mcp-docs-update:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Trigger MCP Documentation Update
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          token: ${{ secrets.SN_ASSISTANT_TOKEN }}
-          repository: ibm-skills-network/sn-assistant
-          event-type: mcp-docs-update
-          client-payload: '{"repository_url": "https://portals.skills.network/docs", "library_name": "portals", "version": "1"}' 

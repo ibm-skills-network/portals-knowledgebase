@@ -1,0 +1,20 @@
+name: Notify MCP Docs Update
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/**'
+  workflow_dispatch:
+
+jobs:
+  notify-mcp-docs-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger MCP Update
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.SN_ASSISTANT_TOKEN }}
+          repository: ibm-skills-network/sn-assistant
+          event-type: mcp-docs-update
+          client-payload: '{"repository_url": "https://portals.skills.network/docs", "library_name": "portals", "version": "1"}'
