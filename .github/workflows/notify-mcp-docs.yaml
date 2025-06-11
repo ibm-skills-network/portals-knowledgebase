@@ -17,4 +17,5 @@ jobs:
           token: ${{ secrets.SN_ASSISTANT_TOKEN }}
           repository: ibm-skills-network/sn-assistant
           event-type: mcp-docs-update
-          client-payload: '{"repository_url": "https://portals.skills.network/admin-docs", "library_name": "portals-admin", "version": "1"}'
+
+          client-payload: '{"repository_url": "https://portals.skills.network/admin-docs", "library_name": "portals_admin", "version": "1"}'
