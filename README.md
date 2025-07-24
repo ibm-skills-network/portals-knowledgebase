@@ -1,4 +1,4 @@
-# Portals Knowledgebase
+# Website
 
 ## Development
 
@@ -10,7 +10,7 @@ We use [Docusaurus](https://docusaurus.io/) within these docs.
 - **Docusaurus provides extra cool formatting features** on top of vanilla Markdown,
   see the [guide to these features here](https://docusaurus.io/docs/markdown-features).
 
-### Running locally
+### Running the server
 
 Install deps and run the dev server locally by running:
 
@@ -31,16 +31,5 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deploying
 
-Using SSH:
-
-```sh
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```sh
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- Deploying to GitHub Pages occurs automatically upon merges to `main`.
+- Check the [list of all `Deploy to GitHub Pages` workflow runs](https://github.com/ibm-skills-network/labs-knowledgebase/actions/workflows/deploy.yml) to ensure your changes are successfully deployed after they're merged.
