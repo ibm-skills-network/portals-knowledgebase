@@ -32,4 +32,4 @@ This command generates static content into the `build` directory and can be serv
 ## Deploying
 
 - Deploying to GitHub Pages occurs automatically upon merges to `main`.
-- Check the [list of all `Deploy to GitHub Pages` workflow runs](https://github.com/ibm-skills-network/labs-knowledgebase/actions/workflows/deploy.yml) to ensure your changes are successfully deployed after they're merged.
+- Check the [list of all `Deploy to GitHub Pages` workflow runs](https://github.com/ibm-skills-network/portals-knowledgebase/actions/workflows/deploy.yml) to ensure your changes are successfully deployed after they're merged.
