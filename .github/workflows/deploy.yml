@@ -26,6 +26,7 @@ jobs:
         run: yarn build
 
       - name: Upload Build Artifact
+        id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
           path: build
