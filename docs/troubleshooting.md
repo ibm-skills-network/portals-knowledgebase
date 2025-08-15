@@ -20,3 +20,11 @@ Ensure that you have completed the content on the page:
 
 Try again using Incognito/Private Browsing.
 Sometimes browser extensions can cause issues with being able to submit a problem; using private browsing can help to verify that the issue is not caused by an extension.
+
+## Change name on certificate
+
+If you have already earned a certificate and need to change the name displayed on it:
+
+1. Click your username in the upper-right corner.
+1. From the dropdown menu, select **Account**.
+1. On the Account Settings page, update the **Full Name** field. This will change the name shown on your certificates.
