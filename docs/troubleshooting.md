@@ -8,6 +8,10 @@ sidebar_position: 5
 
 Make sure you've saved and submitted all of the graded problems. Please allow up to 1 hour for grades to update.
 
+## I cannot find my certificate for a completed course
+
+Not all courses issue certificates, check the progress or details page for the specific course to see if it does issue certificates.
+
 ## I finished a section but it's not showing as completed/green checkmark.
 
 Ensure that you have completed the content on the page:
