@@ -32,3 +32,7 @@ If you have already earned a certificate and need to change the name displayed o
 1. Click your username in the upper-right corner.
 1. From the dropdown menu, select **Account**.
 1. On the Account Settings page, update the **Full Name** field. This will change the name shown on your certificates.
+
+## I didn't receive my level 2 badge
+
+You may need to manually request and claim your level 2 badge from the respective learning path. First, you must navigate to the relevant learning path page. Learning Paths that issue level 2 badges will have a section at the bottom of the page with instructions to request/claim your badge once you are eligible.
