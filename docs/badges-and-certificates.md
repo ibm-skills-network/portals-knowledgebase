@@ -20,7 +20,7 @@ A badge is a digital credential that represents a specific skill, achievement, o
 
 ## Certificates
 
-A certificate is a recognition of professional or educational achievement, typically awarded upon completing a specific program or passing an assessment.
+A certificate is a recognition of professional or educational achievement, awarded upon successfully completing a specific course or program.
 
 - **Purpose**: Validates a comprehensive set of skills or knowledge in a particular field
 - **Authority**: Issued by the platform
@@ -28,6 +28,8 @@ A certificate is a recognition of professional or educational achievement, typic
 - **Credibility**: Carries weight in professional settings, often recognized by employers
 - **Scope**: Covers a broader range of competencies compared to individual badges
 - **Documentation**: Provided as a digital certificate with a unique identifier that can be embedded into social media. Learners can also download it as a PDF or share on social media
+
+Each certificate can be printed, can be downloaded as PDF. It is designed for letter formatted 8.5 inches * 11 inches. A Certificate will have the name of the course you completed and it will be signed by the instructors or providers. It will also have a QR Code that will take you to a web page where you can validate your certificate.
 
 ## Earning Badges and Certificates
 
