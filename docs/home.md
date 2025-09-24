@@ -21,7 +21,7 @@ You can see the following analytics and trends for the following metrics:
 
 - **Pick the content you want for your learners**
   - Browse the Skills Network Catalog
-  - Install and update courses, guided projects, learning paths, specializations, and professional certificates. (Note: specializations and professional certificates may not always be available to install)
+  - Install and update courses, guided projects, activities, learning paths, specializations, and professional certificates. (Note: specializations and professional certificates may not always be available to install)
   - View available updates
 
 ### Content Creation
