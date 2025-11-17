@@ -1,5 +1,9 @@
 # Website
 
+Documentation for learners using Skills Network Portals, available at: https://portals.skills.network/docs
+
+This documentation is also referenced by our AI agents when answering questions or providing guidance.
+
 ## Development
 
 ### Adding content
